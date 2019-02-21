@@ -1,2 +1,2 @@
-# java-sequential-search
-pencarian array integer dengan angka-angka random dengan pemrograman java
+# java-sequential and binary-search
+pencarian array integer (angka-angka random maximal 100 juta angka) dengan pemrograman java
